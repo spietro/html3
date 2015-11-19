@@ -1,0 +1,20 @@
+.haut-de-page {
+  background: gray;
+  height:50px;
+}
+
+.contact {
+  float: left;
+}
+
+.share {
+  float: right;
+}
+
+.haut-de-page ul {
+  list-style-type:none;
+}
+
+.haut-de-page ul li {
+  float: left;
+}
